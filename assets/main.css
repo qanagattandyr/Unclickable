@@ -1,0 +1,32 @@
+html
+{
+    font-family: 'Kumbh Sans', sans-serif;
+    background-color: rgb(68,68,68);
+}
+
+h1
+{
+    color: white;
+    text-align: center;
+}
+#canvas
+{
+    width: 330px;
+    height: 330px;
+    border: 3px solid white;
+    border-radius: 10px;
+    margin: auto;
+}
+#ball
+{
+    width: 40px;
+    height: 40px;
+    background-color: darkgray;
+    border-radius: 50%;
+    border: 4px solid slateblue;
+
+    position: relative;
+    left: 42%;
+    top: 42%;
+    
+}
